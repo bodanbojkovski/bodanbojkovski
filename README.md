@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bodanbojkovski/bodanbojkovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
-## Hi, I'm Bodan Bojkovski!
+### Hi, I'm Bodan Bojkovski! 👋
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -60,4 +58,4 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
-Last Edited on: 08/08/2021****
+Last Edited on: 08/08/2021***
