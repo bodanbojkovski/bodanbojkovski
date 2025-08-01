@@ -28,8 +28,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- 🔭 I’m currently in a coding bootcamp/course for Full-Stack PHP. 
-- 🌱 I’m currently learning  __PHP__, __MySQL__, __JavaScript__.
+- 🔭 I’m finished a coding bootcamp/course for Full-Stack PHP. 
+- 🌱 I’m have learned  __PHP__, __MySQL__, __JavaScript__.
 - 👯 I’m looking to collaborate on anything.
 - 💬 Ask me about everything.
 - ⚡ Fun fact: I'm a software engineering student.
