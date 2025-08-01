@@ -28,8 +28,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- 🔭 I’m finished a coding bootcamp/course for Full-Stack PHP. 
-- 🌱 I’m have learned  __PHP__, __MySQL__, __JavaScript__.
+- 🔭 I've finished a coding bootcamp/course for Full-Stack PHP. 
+- 🌱 I've have learned  __PHP__, __MySQL__, __JavaScript__.
 - 👯 I’m looking to collaborate on anything.
 - 💬 Ask me about everything.
 - ⚡ Fun fact: I'm a software engineering student.
@@ -45,7 +45,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
